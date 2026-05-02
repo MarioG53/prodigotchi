@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  font-family: Arial;
+  background: #111;
+  color: white;
+}
+
+#pet {
+  font-size: 80px;
+  margin: 20px;
+}
